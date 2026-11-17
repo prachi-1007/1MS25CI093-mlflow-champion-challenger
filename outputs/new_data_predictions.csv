@@ -1,9 +1,9 @@
 text,expected_label,predicted_label,score,correct,alias,model_version,hf_model_id
-The canteen biryani today was honestly the best thing about my week.,POSITIVE,POSITIVE,0.9984,True,champion,2,textattack/bert-base-uncased-SST-2
-I waited forty minutes for the bus and it never showed up.,NEGATIVE,NEGATIVE,0.9968,True,champion,2,textattack/bert-base-uncased-SST-2
-The lab session was well organised and the instructor explained everything clearly.,POSITIVE,POSITIVE,0.9986,True,champion,2,textattack/bert-base-uncased-SST-2
-This phone heats up so much that I can barely hold it.,NEGATIVE,POSITIVE,0.865,False,champion,2,textattack/bert-base-uncased-SST-2
-"Not bad at all, the movie was much better than I expected.",POSITIVE,POSITIVE,0.9864,True,champion,2,textattack/bert-base-uncased-SST-2
-The new update made the app slower and kept crashing on login.,NEGATIVE,NEGATIVE,0.9983,True,champion,2,textattack/bert-base-uncased-SST-2
-"Oh great, another surprise quiz on a Monday morning.",NEGATIVE,POSITIVE,0.9823,False,champion,2,textattack/bert-base-uncased-SST-2
-"The library is quiet, clean and open late during exam week.",POSITIVE,POSITIVE,0.6547,True,champion,2,textattack/bert-base-uncased-SST-2
+The canteen biryani today was honestly the best thing about my week.,POSITIVE,POSITIVE,0.9993,True,champion,1,distilbert-base-uncased-finetuned-sst-2-english
+I waited forty minutes for the bus and it never showed up.,NEGATIVE,NEGATIVE,0.9997,True,champion,1,distilbert-base-uncased-finetuned-sst-2-english
+The lab session was well organised and the instructor explained everything clearly.,POSITIVE,POSITIVE,0.9998,True,champion,1,distilbert-base-uncased-finetuned-sst-2-english
+This phone heats up so much that I can barely hold it.,NEGATIVE,POSITIVE,0.8284,False,champion,1,distilbert-base-uncased-finetuned-sst-2-english
+"Not bad at all, the movie was much better than I expected.",POSITIVE,POSITIVE,0.9998,True,champion,1,distilbert-base-uncased-finetuned-sst-2-english
+The new update made the app slower and kept crashing on login.,NEGATIVE,NEGATIVE,0.9993,True,champion,1,distilbert-base-uncased-finetuned-sst-2-english
+"Oh great, another surprise quiz on a Monday morning.",NEGATIVE,POSITIVE,0.9959,False,champion,1,distilbert-base-uncased-finetuned-sst-2-english
+"The library is quiet, clean and open late during exam week.",POSITIVE,POSITIVE,0.9968,True,champion,1,distilbert-base-uncased-finetuned-sst-2-english
