@@ -1,0 +1,38 @@
+{
+  "A": {
+    "hf_model_id": "distilbert-base-uncased-finetuned-sst-2-english",
+    "accuracy": 0.915,
+    "precision": 0.8947368421052632,
+    "recall": 0.9532710280373832,
+    "f1": 0.9230769230769231,
+    "macro_f1": 0.9140524280189085,
+    "total_inference_s": 3.0541207999922335,
+    "avg_latency_ms": 15.270603999961168
+  },
+  "B": {
+    "hf_model_id": "textattack/bert-base-uncased-SST-2",
+    "accuracy": 0.95,
+    "precision": 0.944954128440367,
+    "recall": 0.9626168224299065,
+    "f1": 0.9537037037037037,
+    "macro_f1": 0.9496779388083736,
+    "total_inference_s": 5.781693099997938,
+    "avg_latency_ms": 28.90846549998969
+  },
+  "decision": {
+    "primary_metric": "macro_f1",
+    "margin": 0.01,
+    "delta_primary_metric": 0.035625510789465076,
+    "winner": "B",
+    "reason": "Challenger beats Champion on macro_f1 by +0.0356 (>= margin 0.01)."
+  },
+  "directions": {
+    "accuracy": "higher is better",
+    "precision": "higher is better",
+    "recall": "higher is better",
+    "f1": "higher is better",
+    "macro_f1": "higher is better",
+    "avg_latency_ms": "lower is better",
+    "total_inference_s": "lower is better"
+  }
+}

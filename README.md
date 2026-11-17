@@ -1,6 +1,6 @@
 # Champion–Challenger Sentiment Model Comparison with Hugging Face and MLflow
 
-**Student:** Nandini Trivedi · **USN:** 1MS25CI093 · **Course:** Skill Lab (MLOps with MLflow)
+**Student:** PRACHI CHANDRA · **USN:** 1MS25CI093 · **Course:** Skill Lab (MLOps with MLflow)
 
 ## 1. Task and models
 
