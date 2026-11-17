@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# MLflow local storage (never upload)
+mlruns/
+mlartifacts/
+mlflow.db
+
+# Model files
+*.safetensors
+*.bin
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc

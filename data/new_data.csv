@@ -1,0 +1,9 @@
+text,expected_label
+"The canteen biryani today was honestly the best thing about my week.",POSITIVE
+"I waited forty minutes for the bus and it never showed up.",NEGATIVE
+"The lab session was well organised and the instructor explained everything clearly.",POSITIVE
+"This phone heats up so much that I can barely hold it.",NEGATIVE
+"Not bad at all, the movie was much better than I expected.",POSITIVE
+"The new update made the app slower and kept crashing on login.",NEGATIVE
+"Oh great, another surprise quiz on a Monday morning.",NEGATIVE
+"The library is quiet, clean and open late during exam week.",POSITIVE
